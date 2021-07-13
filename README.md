@@ -37,7 +37,7 @@ change directory to SudokuSolver
 
 ```
 
-Now its time to execute **tic_tac_toe.py**
+Now its time to execute **SudokuSolver.py**
 ```
 
 > python SudokuSolver.py
@@ -47,7 +47,7 @@ it will show following Output
 <img src="example.gif">
 
 ## Download
-:paperclip: [Download Here](https://github.com/geosaleh/SudokuSolver)
+:paperclip: [Download Here](https://github.com/geosaleh/SudokuSolver/archive/refs/heads/master.zip)
 
 Hope you'll install it in your computer just to try .
 
