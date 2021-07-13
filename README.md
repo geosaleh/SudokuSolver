@@ -13,7 +13,7 @@
         -pathlib
         -time
 
-    This is a GUI based python script.
+This is a GUI based python script.
 
 ## Install
 ```
@@ -33,7 +33,7 @@ clone SudokuSolver.py repository on local machine.
 change directory to SudokuSolver
 ```
 
-> cd tic_tac_toe/
+> cd SudokuSolver/
 
 ```
 
